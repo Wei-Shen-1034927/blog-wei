@@ -2,8 +2,13 @@
 title: Welcome to my blog
 ---
 
-* This is my blog
-* I am here to learn about blogging.
+I am trying to get into the IT industry. This is where I will levae my thoughts. 
 
-#I am starting a new blog with GitHub Pages. 
+Things to write: 
+- Ideas 
+- Incidence
+- New experiences
+- Failures 
+- Relationships 
+
 
